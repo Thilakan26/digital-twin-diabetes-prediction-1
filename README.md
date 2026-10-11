@@ -152,7 +152,7 @@ Current development stages:
 ---
 
 ## 👥 Team
-TYST  
+TYST*  
 St.Joseph's college of engineering
 
 ### Team Members
